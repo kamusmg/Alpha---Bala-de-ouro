@@ -1,0 +1,1 @@
+// This file's content has been moved to components/AsymmetricOpportunityCard.tsx
